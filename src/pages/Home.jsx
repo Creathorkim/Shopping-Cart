@@ -10,7 +10,7 @@ const Home = () => {
         <motion.h1
           initial={{ opacity: 0, y: -40 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.7 }}
+          transition={{ delay: 0.6, duration: 0.7 }}
         >
           Welcome to Your Dream Store 🛍️
         </motion.h1>
