@@ -33,7 +33,7 @@ function ProductCard({ products, onAddToCart }) {
         <Card.Text className="flex-grow-1 text-truncate">
           {products.description}
         </Card.Text>
-        <h5 className="mt-auto">{products.price.toFixed(2)}</h5>
+        <h5 className="mt-auto">${products.price.toFixed(2)}</h5>
         <InputGroup className="d-flex my-2 g-2">
           <Form.Control
             type="number"
