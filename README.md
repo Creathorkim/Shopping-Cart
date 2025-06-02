@@ -26,6 +26,6 @@ A sleek and responsive shopping cart web application built with **React**, **Rea
 - Implemented **error boundary route** using `errorElement` to gracefully handle broken paths or failed components
 - Clean UI with equal card heights and polished user experience
 
-## 💫 Smooth Animations with Framer Motion
+## Smooth Animations with Framer Motion
 
 The homepage uses [Framer Motion](https://www.framer.com/motion/) to animate the hero text, adding modern visual appeal and interactivity. The heading and paragraph smoothly fade in and slide into view when the page loads, creating a polished and engaging first impression.
